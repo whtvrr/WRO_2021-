@@ -1,4 +1,4 @@
-# WRO_2021-
+# WRO_2021-FE-
 The machine is designed on the basis of a wheelbase and is controlled by a Raspberry Pi board, the base is powered by a battery. Also, the camera and ultrasonic sensors located in the front of the machine allow it to navigate in space. The camera detects the presence of an obstacle by its color (it is set to red and green). Ultrasonic sensors located on the sides, as well as in the front of the machine determine the distance from the sides.
 
 Used stuff and its description:
